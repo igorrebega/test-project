@@ -1,0 +1,16 @@
+body {
+    padding-top: 50px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.content {
+    margin-top: 50px;
+}
+.unvisible{
+    display: none;
+}
+.rating-minus,.rating-plus{
+    cursor: pointer;
+}
